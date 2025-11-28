@@ -1,4 +1,4 @@
-<!-- 顶部打字机特效 (已修复) -->
+<!-- 顶部打字机特效 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Youyou!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile.;Coding+with+Passion.;Let's+build+something+cool!" alt="Typing SVG" />
 </div>
@@ -15,7 +15,7 @@
 
 <br/>
 
-<!-- 技术栈 (居中显示) -->
+<!-- 技术栈 -->
 <h3 align="center">🛠️ Tech Stack</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,vue,html,css,nodejs,mysql,docker,git,vscode,idea,linux&perline=15" />
@@ -23,65 +23,50 @@
 
 <br/>
 
-<!-- 动态卡片区域：自动适应深色/浅色模式，2x2 完美对齐 -->
+<!-- 动态卡片区域：修复版 -->
+<!-- 使用 picture 标签完美支持深浅色切换 -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <!-- 第一行：左边是综合统计，右边是语言占比 -->
+  <!-- 第一行：综合数据 + 语言占比 -->
   
-  <!-- 综合统计 (深色模式) -->
+  <!-- 综合数据 (General Stats) -->
   <a href="https://github.com/qiu-youyou">
-    <img src="https://github-readme-stats.vercel.app/api?username=qiu-youyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true#gh-dark-mode-only" height="180" alt="stats dark" />
-  </a>
-  <!-- 综合统计 (浅色模式) -->
-  <a href="https://github.com/qiu-youyou">
-    <img src="https://github-readme-stats.vercel.app/api?username=qiu-youyou&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" height="180" alt="stats light" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=qiu-youyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=qiu-youyou&show_icons=true&theme=default&hide_border=true&count_private=true">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=qiu-youyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="General Stats">
+    </picture>
   </a>
 
-  <!-- 常用语言 (深色模式) -->
+  <!-- 语言占比 (Top Langs) -->
   <a href="https://github.com/qiu-youyou">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000#gh-dark-mode-only" height="180" alt="langs dark" />
-  </a>
-  <!-- 常用语言 (浅色模式) -->
-  <a href="https://github.com/qiu-youyou">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=default&hide_border=true#gh-light-mode-only" height="180" alt="langs light" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=default&hide_border=true">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs">
+    </picture>
   </a>
 </div>
 
 <div align="center">
-  <!-- 第二行：左边是连续打卡，右边是活跃时间热点 -->
+  <!-- 第二行：连续打卡 + 活跃时间 -->
 
-  <!-- 连续打卡 (深色模式) -->
+  <!-- 连续打卡 (Streak) -->
   <a href="https://github.com/qiu-youyou">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiu-youyou&theme=tokyonight&hide_border=true&background=00000000#gh-dark-mode-only" height="180" alt="streak dark" />
-  </a>
-  <!-- 连续打卡 (浅色模式) -->
-  <a href="https://github.com/qiu-youyou">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiu-youyou&theme=default&hide_border=true#gh-light-mode-only" height="180" alt="streak light" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=qiu-youyou&theme=tokyonight&hide_border=true&background=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=qiu-youyou&theme=default&hide_border=true">
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=qiu-youyou&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats">
+    </picture>
   </a>
 
-  <!-- 活跃时间分布 (Productive Box) - 这是新增的第4个卡片用来对齐 -->
-  <!-- 活跃时间 (深色模式) -->
+  <!-- 活跃时间 (Productive Time) -->
   <a href="https://github.com/qiu-youyou">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qiu-youyou&theme=tokyonight&utcOffset=8#gh-dark-mode-only" height="180" alt="productive dark" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qiu-youyou&theme=tokyonight&utcOffset=8">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qiu-youyou&theme=default&utcOffset=8">
+      <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qiu-youyou&theme=tokyonight&utcOffset=8" alt="Productive Time">
+    </picture>
   </a>
-  <!-- 活跃时间 (浅色模式) -->
-  <a href="https://github.com/qiu-youyou">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qiu-youyou&theme=default&utcOffset=8#gh-light-mode-only" height="180" alt="productive light" />
-  </a>
-</div>
-
-<br/>
-
-<!-- 底部贪吃蛇 (可选，如果不想要可以删掉) -->
-<!-- 底部贪吃蛇 (自动适配深色/浅色模式) -->
-<div align="center">
-  <picture>
-    <!-- 深色模式下显示的蛇 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiu-youyou/qiu-youyou/output/github-contribution-grid-snake-dark.svg">
-    <!-- 浅色模式下显示的蛇 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiu-youyou/qiu-youyou/output/github-contribution-grid-snake.svg">
-    <!-- 默认兜底显示 -->
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qiu-youyou/qiu-youyou/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
