@@ -1,37 +1,21 @@
-<!-- 顶部打字机特效 -->
+<!-- 顶部打字机特效 (已修复) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I+am+a+Developer.;Coding+the+Future...;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Youyou!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile.;Coding+with+Passion.;Let's+build+something+cool!" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/qiu-youyou">你的名字</a> 🚀</h1>
+<!-- 标题与简介 -->
+<h1 align="center">Hi, I'm <a href="https://github.com/qiu-youyou">Youyou</a> 🚀</h1>
 
-<p align="center">
-  <em>💻 正在探索世界的开发者 | 🌱 终身学习者</em>
-</p>
-
-<!-- 社交链接/简介区域 -->
 <p align="center">
   <a href="https://github.com/qiu-youyou">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-qiu--youyou-181717?style=flat-square&logo=github" alt="GitHub Badge"/>
   </a>
-  <!-- 如果你有推特或博客，可以在这里加，不需要删掉即可 -->
+  <img src="https://komarev.com/ghpvc/?username=qiu-youyou&label=Profile%20Views&color=blue&style=flat-square" alt="访客统计" />
 </p>
 
 <br/>
 
-<!-- 关于我 -->
-### 🧐 About Me
-
-- 🔭 I’m currently working on **Interesting Projects**
-- 🌱 I’m currently learning **New Technologies**
-- 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **Java, Python, React...**
-- 📫 How to reach me: **your-email@example.com**
-
-<br/>
-
-<!-- 技术栈图标 (这里用的是SkillIcons，非常整齐好看) -->
-<!-- 想要修改图标？去 skillicons.dev 找代码换掉下面的 i=... 里的内容即可 -->
+<!-- 技术栈 (居中显示) -->
 <h3 align="center">🛠️ Tech Stack</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,vue,html,css,nodejs,mysql,docker,git,vscode,idea,linux&perline=15" />
@@ -39,24 +23,65 @@
 
 <br/>
 
-<!-- 动态统计卡片区域 -->
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- 动态卡片区域：自动适应深色/浅色模式，2x2 完美对齐 -->
+<h3 align="center">📊 GitHub Analytics</h3>
+
 <div align="center">
-  <!-- 总体统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=qiu-youyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <!-- 语言使用占比 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <!-- 第一行：左边是综合统计，右边是语言占比 -->
+  
+  <!-- 综合统计 (深色模式) -->
+  <a href="https://github.com/qiu-youyou">
+    <img src="https://github-readme-stats.vercel.app/api?username=qiu-youyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true#gh-dark-mode-only" height="180" alt="stats dark" />
+  </a>
+  <!-- 综合统计 (浅色模式) -->
+  <a href="https://github.com/qiu-youyou">
+    <img src="https://github-readme-stats.vercel.app/api?username=qiu-youyou&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" height="180" alt="stats light" />
+  </a>
+
+  <!-- 常用语言 (深色模式) -->
+  <a href="https://github.com/qiu-youyou">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000#gh-dark-mode-only" height="180" alt="langs dark" />
+  </a>
+  <!-- 常用语言 (浅色模式) -->
+  <a href="https://github.com/qiu-youyou">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=default&hide_border=true#gh-light-mode-only" height="180" alt="langs light" />
+  </a>
 </div>
 
-<!-- 连续打卡记录 (Streak) -->
 <div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiu-youyou&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+  <!-- 第二行：左边是连续打卡，右边是活跃时间热点 -->
+
+  <!-- 连续打卡 (深色模式) -->
+  <a href="https://github.com/qiu-youyou">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiu-youyou&theme=tokyonight&hide_border=true&background=00000000#gh-dark-mode-only" height="180" alt="streak dark" />
+  </a>
+  <!-- 连续打卡 (浅色模式) -->
+  <a href="https://github.com/qiu-youyou">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiu-youyou&theme=default&hide_border=true#gh-light-mode-only" height="180" alt="streak light" />
+  </a>
+
+  <!-- 活跃时间分布 (Productive Box) - 这是新增的第4个卡片用来对齐 -->
+  <!-- 活跃时间 (深色模式) -->
+  <a href="https://github.com/qiu-youyou">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qiu-youyou&theme=tokyonight&utcOffset=8#gh-dark-mode-only" height="180" alt="productive dark" />
+  </a>
+  <!-- 活跃时间 (浅色模式) -->
+  <a href="https://github.com/qiu-youyou">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qiu-youyou&theme=default&utcOffset=8#gh-light-mode-only" height="180" alt="productive light" />
+  </a>
 </div>
 
 <br/>
 
-<!-- 底部访客统计 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qiu-youyou&label=Profile%20Views&color=0e75b6&style=flat" alt="访客数" />
-</p>
+<!-- 底部贪吃蛇 (可选，如果不想要可以删掉) -->
+<!-- 底部贪吃蛇 (自动适配深色/浅色模式) -->
+<div align="center">
+  <picture>
+    <!-- 深色模式下显示的蛇 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiu-youyou/qiu-youyou/output/github-contribution-grid-snake-dark.svg">
+    <!-- 浅色模式下显示的蛇 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiu-youyou/qiu-youyou/output/github-contribution-grid-snake.svg">
+    <!-- 默认兜底显示 -->
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qiu-youyou/qiu-youyou/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
