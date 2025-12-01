@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Youyou!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile.;Coding+with+Passion.;Let's+build+something+cool!" alt="Typing SVG" />
 </div>
-
 <!-- 标题与简介 -->
 <h1 align="center">Hi, I'm <a href="https://github.com/qiu-youyou">Youyou</a> 🚀</h1>
 
@@ -26,6 +25,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,html,css,nodejs,mysql,docker,git,vscode,idea,linux&perline=15" />
 </div>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/qiu-youyou">
