@@ -6,8 +6,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/qiu-youyou">Youyou</a> 🚀</h1>
 
 <!-- 动态卡片区域：修复版 -->
-<!-- 使用 picture 标签完美支持深浅色切换 -->
-<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
   <!-- 语言占比 (Top Langs) -->
