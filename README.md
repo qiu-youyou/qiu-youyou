@@ -23,7 +23,7 @@
 <!-- 技术栈 -->
 <h3 align="center">🛠️ Tech Stack</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,html,css,nodejs,mysql,docker,git,vscode,idea,linux&perline=15" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,nodejs,python,mysql,docker,linux,git,&perline=15" />
 </div>
 
 <br />
