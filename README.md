@@ -15,14 +15,6 @@
 
 <br/>
 
-<!-- 技术栈 -->
-<h3 align="center">🛠️ Tech Stack</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,html,css,nodejs,mysql,docker,git,vscode,idea,linux&perline=15" />
-</div>
-
-<br/>
-
 <!-- 动态卡片区域：修复版 -->
 <!-- 使用 picture 标签完美支持深浅色切换 -->
 <h3 align="center">📊 GitHub Analytics</h3>
@@ -37,3 +29,11 @@
     </picture>
   </a>
 </div>
+
+<!-- 技术栈 -->
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,html,css,nodejs,mysql,docker,git,vscode,idea,linux&perline=15" />
+</div>
+
+<br/>
