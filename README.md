@@ -6,15 +6,6 @@
 <!-- 标题与简介 -->
 <h1 align="center">Hi, I'm <a href="https://github.com/qiu-youyou">Youyou</a> 🚀</h1>
 
-<p align="center">
-  <a href="https://github.com/qiu-youyou">
-    <img src="https://img.shields.io/badge/GitHub-qiu--youyou-181717?style=flat-square&logo=github" alt="GitHub Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=qiu-youyou&label=Profile%20Views&color=blue&style=flat-square" alt="访客统计" />
-</p>
-
-<br/>
-
 <!-- 动态卡片区域：修复版 -->
 <!-- 使用 picture 标签完美支持深浅色切换 -->
 <h3 align="center">📊 GitHub Analytics</h3>
@@ -36,4 +27,9 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,html,css,nodejs,mysql,docker,git,vscode,idea,linux&perline=15" />
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/qiu-youyou">
+    <img src="https://img.shields.io/badge/GitHub-qiu--youyou-181717?style=flat-square&logo=github" alt="GitHub Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=qiu-youyou&label=Profile%20Views&color=blue&style=flat-square" alt="访客统计" />
+</p>
