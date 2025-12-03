@@ -6,7 +6,16 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/qiu-youyou">Youyou</a> 🚀</h1>
 
 <!-- 动态卡片区域：修复版 -->
-
+<div align="center">
+  <!-- 语言占比 (Top Langs) -->
+  <a href="https://github.com/qiu-youyou">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=default&hide_border=true">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs">
+    </picture>
+  </a>
+</div>
 
 <!-- 技术栈 -->
 <h3 align="center">🛠️ Tech Stack</h3>
