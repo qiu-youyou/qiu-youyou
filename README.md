@@ -7,6 +7,12 @@
 
 <!-- 动态卡片区域：修复版 -->
 <div align="center">
+  <a href="https://github.com/qiu-youyou">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs">
+  </a>
+</div>
+
+<!-- <div align="center">
   <!-- 语言占比 (Top Langs) -->
   <a href="https://github.com/qiu-youyou">
     <picture>
@@ -15,7 +21,7 @@
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiu-youyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs">
     </picture>
   </a>
-</div>
+</div> -->
 
 <!-- 技术栈 -->
 <h3 align="center">🛠️ Tech Stack</h3>
